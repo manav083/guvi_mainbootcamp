@@ -1,0 +1,66 @@
+.outerBox {
+    border: 1px solid;
+}
+
+p {
+    text-align: center;
+}
+
+.image {
+    text-align: center;
+    margin: 50px 30px 50px 30px;
+}
+
+.innerBox {
+    border: 1px solid;
+    margin: 0 20px 20px 20px;
+}
+
+.imageBox {
+    border: 1px solid;
+    width: 150px;
+    margin: 50px 20px 50px 30px;
+    height: 200px;
+    position: absolute;
+}
+
+.oval {
+    border: 1px solid;
+    border-radius: 50%;
+    width: 125px;
+    height: 175px;
+    margin: 10px 10px 10px 10px;
+}
+
+form {
+    width: 60%;
+    margin: auto;
+    margin: 50px 20px 50px 300px;
+    position: relative;
+    display: inline-block;
+}
+
+input {
+    padding-bottom: 10px;
+    width: 200px;
+    float: none;
+    margin: 0 0 5px 15px;
+    display:table-cell;
+}
+
+label {
+    font-size: 20px;
+    display: table-cell;
+    float: left;
+    text-align: justify;
+}
+
+button {
+    margin-left: 20px;
+    width: 100px;
+    height: 30px;
+}
+.button {
+    margin-left: 350px;
+    margin-bottom: 20px;
+}
